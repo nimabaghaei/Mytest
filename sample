@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-prinft('hi world');
+prinft('hi world nima');
 
 return 0;
 
